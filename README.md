@@ -18,8 +18,8 @@ Inspired by [DHH](https://dhh.dk/) and his [Omarchy](https://omarchy.org/) setup
 # Ingredients
 - Base OS: [Debian](https://www.debian.org/) 13 for stability and compatibility
 - Desktop environment: [Cinnamon](https://github.com/linuxmint/Cinnamon) for a premium desktop experience
-- Wallpaper: [Mandelbrot fractal](https://misterx.ca/Mandelbrot_Set/M_Set-IMAGES_&_WALLPAPER.html)
-- Window themes: polished themes from [Linux Mint](https://linuxmint.com/)
+- Wallpaper: beautiful [Mandelbrot fractal](https://misterx.ca/Mandelbrot_Set/M_Set-IMAGES_&_WALLPAPER.html)
+- Window themes: artfully polished themes from [Linux Mint](https://linuxmint.com/)
 - Web browser: [Chromium](https://www.chromium.org/Home/)
 - Password management: [KeePassXC](https://keepassxc.org/)
 - Terminal emulator: [alacritty](https://alacritty.org/) with Caskaydia Nerd Fonts
