@@ -1,9 +1,9 @@
 # FracDesk the Fractal Desktop
 
-> Infinite loops spin,
-> Branches bloom in endless dance,
-> Nature's code unfolds.
- -- AI, probably
+*Infinite loops spin,*  
+*Branches bloom in endless dance,*  
+*Nature's code unfolds.*  
+  -- AI, probably
 
 ![screenshot](screenshots/fracdesk.png)
 
