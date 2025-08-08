@@ -13,7 +13,7 @@ Inspired by DHH and his [Omarchy](https://omarchy.org/) setup, this is my own pe
 # Ingredients
 - Base OS: [Debian](https://www.debian.org/) 13 for stability and compatibility
 - Desktop environment: [Cinnamon](https://github.com/linuxmint/Cinnamon) for a premium desktop experience
-- Wallpaper: [Mandelbrot fractal](https://misterx.ca/Mandelbrot_Set/)
+- Wallpaper: [Mandelbrot fractal]([https://misterx.ca/Mandelbrot_Set/](https://misterx.ca/Mandelbrot_Set/M_Set-IMAGES_&_WALLPAPER.html))
 - Window themes: polished themes from [Linux Mint](https://linuxmint.com/)
 - Web browser: [Chromium]{https://www.chromium.org/Home/)
 - Terminal emulator: [alacritty](https://alacritty.org/) with Caskaydia Nerd Fonts
