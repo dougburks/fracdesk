@@ -7,8 +7,11 @@
 
 ![screenshot](screenshots/fracdesk.png)
 
+# Motivation
+Every year or so, I review my technology stack to make sure I'm using the best tools for the job. Starting from first principles, I consider needs, desires, and workflows. What is the best operating system for those needs, desires, and workflows? Is it Windows, macOS, Linux, or a combination thereof? I've used Linux as my primary desktop environment and it continues to be the environment where I'm most productive. What about apps? What are the best of breed productivity apps that help me get my job done with a minimum amount of fuss? What is the desktop environment that allows me to work with all of those applications at the same time most efficiently?
+
 # Inspiration
-Inspired by DHH and his [Omarchy](https://omarchy.org/) setup, this is my own personal recipe for my ideal desktop environment. Like a fractal, it is so simple yet so powerful. FracDesk is a curated collection of comprehensive components that balances the ideals of productivity, flexibiliity, and beauty.
+Inspired by DHH and his [Omarchy](https://omarchy.org/) setup, this is my own personal recipe for my ideal desktop environment. Like a fractal, FracDesk is so simple yet so powerful. It is a curated collection of comprehensive components that balances the ideals of productivity, flexibiliity, and beauty.
 
 # Ingredients
 - Base OS: [Debian](https://www.debian.org/) 13 for stability and compatibility
