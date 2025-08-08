@@ -15,8 +15,12 @@ Inspired by DHH and his [Omarchy](https://omarchy.org/) setup, this is my own pe
 - Desktop environment: [Cinnamon](https://github.com/linuxmint/Cinnamon) for a premium desktop experience
 - Wallpaper: [Mandelbrot fractal](https://misterx.ca/Mandelbrot_Set/)
 - Window themes: polished themes from [Linux Mint](https://linuxmint.com/)
+- Web browser: [Chromium]{https://www.chromium.org/Home/)
 - Terminal emulator: [alacritty](https://alacritty.org/) with Caskaydia Nerd Fonts
 - Text editor: [neovim](https://neovim.io/) with [LazyVim](https://www.lazyvim.org/)
+- Performance monitoring: [btop](https://github.com/aristocratos/btop)
+- System summary: [screenfetch](https://github.com/KittyKatt/screenFetch)
+- Window automation: [xdotool](https://github.com/jordansissel/xdotool)
 - Eye candy: dazzling terminal effects via [tte](https://github.com/ChrisBuilds/terminaltexteffects)
 
 # Why Debian?
