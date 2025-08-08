@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PROJECT="FracDesk"
-PROJECTLOWER=echo "$PROJECT" | tr '[:upper:]' '[:lower:]'
+PROJECTLOWER=$(echo "$PROJECT" | tr '[:upper:]' '[:lower:]')
 URL="https://raw.githubusercontent.com/dougburks/$PROJECTLOWER/refs/heads/main"
 
 function logo {
