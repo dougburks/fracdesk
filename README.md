@@ -25,7 +25,7 @@ Inspired by DHH and his [Omarchy](https://omarchy.org/) setup, this is my own pe
 - Performance monitoring: [btop](https://github.com/aristocratos/btop)
 - System summary: [screenfetch](https://github.com/KittyKatt/screenFetch)
 - Window automation: [xdotool](https://github.com/jordansissel/xdotool)
-- Eye candy: dazzling terminal effects via [tte](https://github.com/ChrisBuilds/terminaltexteffects)
+- Eye candy: dazzling terminal effects via [tte](https://github.com/ChrisBuilds/terminaltexteffects) for demo scene nostalgia
 
 # Why Debian?
 I want to use the same base OS in a few different environments:
