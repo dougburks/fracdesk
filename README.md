@@ -1,9 +1,11 @@
-# FracDesk the Fractal Desktop
+# FracDesk
 
 *Infinite loops spin,*  
 *Branches bloom in endless dance,*  
 *Nature's code unfolds.*  
   -- AI, probably
+
+FracDesk is the Fractal Desktop. It's simple yet powerful and beautiful.
 
 ![screenshot](screenshots/fracdesk.png)
 
