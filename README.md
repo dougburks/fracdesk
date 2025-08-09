@@ -20,7 +20,7 @@ Inspired by [DHH](https://dhh.dk/) and his [Omarchy](https://omarchy.org/) setup
 - Desktop environment: [Cinnamon](https://github.com/linuxmint/Cinnamon) for a premium desktop experience
 - Wallpaper: beautiful [Mandelbrot fractal](https://misterx.ca/Mandelbrot_Set/M_Set-IMAGES_&_WALLPAPER.html)
 - Window themes: artfully polished themes from [Linux Mint](https://linuxmint.com/)
-- Web browser: [Chromium](https://www.chromium.org/Home/)
+- Web browser: [Chromium](https://www.chromium.org/Home/) with uBlock Origin Lite content blocker
 - Password management: [KeePassXC](https://keepassxc.org/)
 - Terminal emulator: [alacritty](https://alacritty.org/) with Caskaydia Nerd Fonts
 - Text editor: [neovim](https://neovim.io/) with [LazyVim](https://www.lazyvim.org/)
