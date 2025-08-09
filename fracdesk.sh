@@ -160,6 +160,14 @@ if [ ! -d ~/.config/nvim ]; then
 	rm -rf ~/.config/nvim/.git
 fi
 
+display "tte rain" "Configuring chromium"
+mkdir -p "~/.config/chromium/External Extensions"
+cat << EOF >> "~/.config/chromium/External Extensions/ddkjiahejlhfcafbddmgiahcphecmpfh.json"
+{
+  "external_update_url": "https://clients2.google.com/service/update2/crx"
+}
+EOF
+
 display "tte rain" "Removing unnecessary packages"
 sudo apt -y purge brasero firefox* thunderbird firefox* gnome-chess gnome-games goldendict-ng hexchat hoichess pidgin remmina thunderbird transmission* x11vnc
 sudo apt -y autoremove
