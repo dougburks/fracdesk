@@ -10,7 +10,7 @@ function logo {
 
 function welcome {
 	toilet -f mono12 "Welcome" | tte rain
-	toilet -f mono12 "to" | tte rain
+	toilet -f mono12 "   to" | tte rain
 	logo
 }
 
