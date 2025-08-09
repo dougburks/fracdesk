@@ -195,7 +195,7 @@ else
  	/usr/bin/xdotool search --name '.* - KeePassXC' windowactivate
 fi
 EOF
-chmod +x /usr/local/bin/keepass-activate
+sudo chmod +x /usr/local/bin/keepass-activate
 
 display "tte rain" "Removing unnecessary packages"
 sudo apt -y purge brasero firefox* thunderbird firefox* gnome-chess gnome-games goldendict-ng hexchat hoichess pidgin remmina thunderbird transmission* x11vnc
