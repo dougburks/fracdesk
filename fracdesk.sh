@@ -142,8 +142,13 @@ fi
 if [ ! -f ~/.config/alacritty/alacritty.toml ]; then
 	mkdir -p ~/.config/alacritty/
 	cat << EOF >> ~/.config/alacritty/alacritty.toml
+[env]
+TERM = "xterm-256color"
 [window]
 opacity = 0.97  # Values from 0.0 (fully transparent) to 1.0 (opaque)
+padding.x = 14
+padding.y = 14
+decorations = "Full"
 [font]
 normal = { family = "CaskaydiaMono Nerd Font", style = "Regular" }
 bold = { family = "CaskaydiaMono Nerd Font", style = "Bold" }
