@@ -1,13 +1,15 @@
 # FracDesk
 
+FracDesk is the Fractal Desktop. It's simple yet powerful and beautiful.
+
+![screenshot](screenshots/fracdesk.png)
+
+# Obligatory Haiku
+
 *Infinite loops spin,*  
 *Branches bloom in endless dance,*  
 *Nature's code unfolds.*  
   -- AI, probably
-
-FracDesk is the Fractal Desktop. It's simple yet powerful and beautiful.
-
-![screenshot](screenshots/fracdesk.png)
 
 # Motivation
 Every year or so, I review my technology stack to make sure I'm using the best tools for the job. Starting from first principles, I consider needs, desires, and workflows. What is the best operating system for those needs, desires, and workflows? Is it Windows, macOS, Linux, or a combination thereof? Since discovering Linux in 1997, it has been my primary desktop environment for most of those years and it continues to be the environment where I'm most productive. What about apps? What are the best of breed productivity apps that help me get my job done with a minimum amount of fuss? What is the Linux desktop environment that allows me to work with all of those applications at the same time most efficiently? Finally, which Linux distro provides that desktop environment and those apps and runs on the hardware that I need it to?
