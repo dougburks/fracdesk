@@ -44,6 +44,8 @@ Why use Debian Cinnamon instead of Linux Mint or Linux Mint Debian Edition (LMDE
   
 # Requirements
 FracDesk requires the following:
+- 2GB RAM minimum
+- 2 CPU cores minimum
 - Debian 13 with Cinnamon desktop
 - user account with sudo privileges
 - ability to connect to Github, package repos, and other Internet sites
