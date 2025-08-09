@@ -161,8 +161,8 @@ if [ ! -d ~/.config/nvim ]; then
 fi
 
 display "tte rain" "Configuring chromium"
-mkdir -p "~/.config/chromium/External Extensions"
-cat << EOF >> "~/.config/chromium/External Extensions/ddkjiahejlhfcafbddmgiahcphecmpfh.json"
+mkdir -p ~/.config/chromium/"External Extensions"
+cat << EOF >> ~/.config/chromium/"External Extensions/ddkjiahejlhfcafbddmgiahcphecmpfh.json"
 {
   "external_update_url": "https://clients2.google.com/service/update2/crx"
 }
